@@ -1,0 +1,3 @@
+[submodule "hera"]
+	path = hera
+	url = https://bitbucket.org/grey_narn/hera.git
