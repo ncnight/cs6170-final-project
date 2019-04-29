@@ -11,7 +11,7 @@ import re
 import pickle
 from matplotlib import pyplot as plt
 from sklearn import manifold
-PH_PKL_FILE="./dgms_mixed4a_grey.pkl"
+PH_PKL_FILE="./dgms_conv2d_grey.pkl"
 
 def run_hera(dgms, distance="geom_bottleneck", dim=0):
     try:
